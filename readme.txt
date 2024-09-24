@@ -2,9 +2,8 @@ Name: Jake Fulton
 Pitt username: jkf31
 I am pleased to report that as far as I'm aware, everything functions properly.
 
-I'm not sure if I can get extra credit for this, but I added 2 extra functions to the program. 
-	The program asks the user(s) what they want their token to look like (don't press enter, it'll mess up the board, just type one character), 
-	and it asks if they would like to replay they game, and if so, it clears the board and lets them play again. Otherwise, it ends the loop properly.
+For extra credit, I added 2 extra functions to the program. 
+	The program asks the user(s) what they want their token to look like, and it asks if they would like to replay they game, and if so, it clears the board and lets 	them play again. Otherwise, it ends the loop properly.
 
 Explaining my program:
 The order of the functions and their subfunctions is like this:
